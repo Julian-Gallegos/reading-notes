@@ -29,7 +29,7 @@
    2. How are props used in React?
       - Props are passed into React components to pass along data, following React's one-way dataflow
    3. What is the flow of props?
-      - One-way, from super to child.
+      - One-way, from parent to child.
       
 ## Things I want to know more about
    1. I think I have a surface level understanding of components, but I think they'll make more sense when I've shown a specific example of a component. EDIT: After looking over some of the lab materials, the added visualization has helped a lot for understanding components.
