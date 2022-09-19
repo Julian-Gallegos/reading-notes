@@ -8,6 +8,9 @@
 ### *-blank-*
 
 ## **Code 301 - Intermediate Software Development**
+### **Table of Contents**
+- Reading assignments:
+  - [Class 1 GitHub Page](https://julian-gallegos.github.io/reading-notes/reading-class-1)
 ### **Week 1**
 - **Day 1**
   - Orientation and React.js
@@ -41,13 +44,42 @@
    - Bias:
    > We all have bias and bias is normal...it's the weaponization of bias that's dangerous
      -- John Cokos
-   - Stereotypes
-     - Where do they come from?
-       - Family
-       - Community
-       - Religion
-       - Marketing
-   - 
+     - Stereotypes
+       - Where do they come from?
+         - Family
+         - Community
+         - Religion
+         - Marketing
+     - Conscious Bias:
+       - Overt negative bias towards people that you know.
+     - Implicit Bias:
+       - These types of biases are not always conscious but rather the stories we've made up about people before we know who they really are
+         1. Beauty Bias: Perceived successful.
+         2. Affinity Bias: Warmed by same-ness.
+         3. Similarity Bias: Only open to seeing ourselves in others.
+         4. Halo Effect: One great thing gives a glow.
+         5. Horns Effect: Put off by something then assume.
+         6. Contrast Effect: Comparing to others.
+         > Comparison is the thief of joy -- some pastor John Cokos knows
+         7. Conformity: Groupthink.
+            - In group/out group dynamics - you unfairly favor those who belong to your group.
+            - Groupthink - you let the social dynamics of a group situation override the whole.
+         8. Confirmation Bias:
+            - Confirmation bias is the tendency of people to favor information that confirms their existing beliefs or hypotheses. People display this bias when they gather or recall information selectively.
+         9. Attribution Bias:
+            - The tendency to have a different rationale for your own behavior vs. that of others.
+            - Your errors is due to motives and circumstances. Another person making the same error is attributed to their character and personality.
+            - It's never your fault, but someone else? "come on man how could you make that mistake"
+     - Microaggressions:
+       - The everyday verbal, nonverbal, and environmental slights, snubs, or insults, whether intentional or unintentional, which communicate hostile, derogatory, or negative messages to target persons based soley upon their marginalized group membership.
+     - What Can I Do?
+       - Increase contact with people who are different from you.
+       - Notice positive examples, and repeat them. People like to hear the postives.
+       - Be specific in your intent.
+       - Change the way you do things.
+       - Heighten your awareness.
+       - Take care of yourself.
+  - Orientation and React.js
 
 ## **Code 401 - Advanced Software Development**
 ### *-blank-*
