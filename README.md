@@ -156,5 +156,7 @@
       - found in react bootstrap cards page
       - easy formatting card shaped html elements
     - some Bootstrap web content is outdated 4.0 content, in general search for things with `fst` or things that say 5.0
+  - `this.setState()`
+    - Takes an object as an argument, and inside of this object, one can put in the prop that one wishes to update
 ## **Code 401 - Advanced Software Development**
 ### *-blank-*
