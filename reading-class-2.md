@@ -2,7 +2,7 @@
 ### Reading Notes Assignment on React's Lifecycle and States Vs Props
   [Link back to main reading notes page](https://julian-gallegos.github.io/reading-notes/)
 
-## This topic is important as props and components are the basic structure for every React app. React is extra important to know in general due to its widespread use in the dev community.
+## Knowing the lifecycle of React components is important for mastering React, as a better understanding allows us to optimize our code and dataflow via the methods React provides us. Comparing the differences between state and props makes us more aware of the role they play in the design and implementation of well designed React apps. A particularly noteworthy fact is that an application is re-rendered after updating a component's state. If one were uninformed on this fact, one could easily design inefficient or slow code that causes many unnecessary re-renders.
 
 ## Component-Based Architecture Questions:
    1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
