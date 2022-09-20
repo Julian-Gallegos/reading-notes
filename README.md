@@ -134,6 +134,27 @@
     - Zoom recordigs will be under the resources tab on canvas. Please don't share these recordings with those outside of our cohort.
     - Assignment resubmissions will be allowed up until Sunday October 9th, just before project week
     - Must have at least an 80% in class to participate in project week
-      - We'll have a conversation if there are issues with grades before this.  
+      - We'll have a conversation if there are issues with grades before this.
+- **Day 2**
+  - Agenda for today:
+    - Warm up
+    - Code Review
+    - Array.map()
+    - Lecture:
+      - Lab 02 Preview
+      - State
+      - .setState()
+      - event handler
+        - passing arguments to event handlers with arrow functions
+      - className
+      - Bootstrap
+      - Netlify'
+  - CSS Bootstrap:
+    - Free front-end framework for faster and easier web development. It includes HTML and CSS based design templates for typography, forms, buttons, tables, naviation, models, etc
+    - npm install react-bootstrap bootstrap in a ap made with npx create-react-app [folder name to be created]
+    - Cards
+      - found in react bootstrap cards page
+      - easy formatting card shaped html elements
+    - some Bootstrap web content is outdated 4.0 content, in general search for things with `fst` or things that say 5.0
 ## **Code 401 - Advanced Software Development**
 ### *-blank-*
