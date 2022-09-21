@@ -5,6 +5,8 @@
 ## .map() and the spread operator are powerful and important tools for React, but also for JavaScript as a whole due to their efficient and highly readable functionality when creating or unpacking groups of elements.
 
 ## React Docs - Lists and Keys:
+
+source credit: https://reactjs.org/docs/lists-and-keys.html and https://reactjs.org/docs/reconciliation.html#recursing-on-children
    1. What does .map() return?
       - `Array.map()` returns a new array populated with the results of calling a provided/callback function on each element in its calling array.
    2. If I want to loop through an array and display each value in JSX, how do I do that in React?
@@ -14,11 +16,14 @@
    4. What is the purpose of a key?
       - Keys give elements a stable identity, which is important for optimizing React when recursing on the children of a DOM node.
 ## The Spread Operator:
+
+source credit: https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab
    1. What is the spread operator?
       - Syntax that allows iterables like arrays or strings to be expanded in places where zero or more arguments/elements for function calls/array literals are expected. If used in an object literal, spread enumerates the properties of the object and adds key-value pairs to the object being created.
    2. List 4 things that the spread operator can do
       - Copy arrays, concatenating arrays, populating arguments for a function from an array/using an array as arguments, and converting NodeLists into arrays.
    3. Give an example of using the spread operator to combine two arrays.
+      
       `
       const array1 = [1,2,3];
       const array2 = [4,5,6];
@@ -26,12 +31,14 @@
       console.log(...concatenated); // 1 2 3 4 5 6
       `
    4. Give an example of using the spread operator to add a new item to an array.
+      
       `
       const array1 = [4,5,6];
       const array2 = [1,2,3,...array2];
       console.log(array2); // [1, 2, 3, 4, 5, 6]
       `
    5. Give an example of using the spread operator to combine two objects into one.
+      
       `
       const object1 = {fizz: "hello"}
       const object2 = {buzz: "world"}
@@ -39,6 +46,8 @@
       console.log(combined); // Object { fizz: "hello", buzz: "world" }
       `
 ## How to Pass Functions Between Components:
+
+source credit: https://www.youtube.com/watch?v=c05OL7XbwXU
    1. In the video, what is the first step that the developer does to pass functions between components?
       - pass the function into the component like any other prop.
    3. In your own words, what does the increment function do?
