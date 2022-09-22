@@ -21,21 +21,25 @@ source credit: https://codeburst.io/javascript-the-conditional-ternary-operator-
       - The ternary operator syntax is much cleaner and shorter than if condition syntax, especially when performing many short else if conditionals.
    2. Rewrite the following statement using a ternary statement:
 
-`
-if(x===y){
-  console.log(true);
-} else {
-  console.log(false);
-}
-`
-      - Ternary version:     
-`
-x===y ? console.log(true) : console.log(false);
-`
-      - This is maybe a bit cleaner, but this would actually be even better without the ternary operator:
-`
-console.log(x===y);
-`
+    if(x===y){
+      console.log(true);
+    } else {
+      console.log(false);
+    }
+
+Ternary version:     
+
+
+    x===y ? console.log(true) : console.log(false);
+
+or
+
+    console.log(x===y ? true : false);
+
+This is maybe a bit cleaner, but this would actually be even better without the ternary operator:
+
+
+    console.log(x===y)
       
 ## Things I want to know more about
    1. If I update a form html element with a React based function handler, does the Form independently rerender from the state rerender? In other words, will there be two rerenders, one for the independent state of the form, and another for the react setState rerender?
