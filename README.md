@@ -14,7 +14,7 @@
   - [Class 2 GitHub Page](https://julian-gallegos.github.io/reading-notes/reading-class-2)
   - [Class 3 GitHub Page](https://julian-gallegos.github.io/reading-notes/reading-class-3)
 ### **Week 1**
-- **Day 1**
+#### **Day 1**
   - Orientation and React.js
      - Be ready to make mistakes/don't be afraid to fail
      - Code of Conduct: don't be a dick, be respectful
@@ -136,7 +136,7 @@
     - Assignment resubmissions will be allowed up until Sunday October 9th, just before project week
     - Must have at least an 80% in class to participate in project week
       - We'll have a conversation if there are issues with grades before this.
-- **Day 2**
+####**Day 2**
   - Agenda for today:
     - Warm up
     - Code Review
@@ -159,5 +159,26 @@
     - some Bootstrap web content is outdated 4.0 content, in general search for things with `fst` or things that say 5.0
   - `this.setState()`
     - Takes an object as an argument, and inside of this object, one can put in the prop that one wishes to update
+####**Day 3**
+  - Agenda:
+    - Warm up
+    - Code Review
+    - Code Challenge Lecture: Array.filter()
+    - Lecture: Passing Functions as Props
+    - Lunch
+    - Lab
+  - Classmate notes from yesterday:
+    - would be nice to learn more about styling within bootstrap
+    - more convenient way to import bootstrap
+    - changing primary colors primary and secondary was weirdly difficult
+    - breaking some carousel components
+      - TODO: custom.scss to change primary and secondary etc colors
+      - If time: we'll add some carousels
+    - css styling with boorstrap
+  - Sass: Syntactically Awesome Style Sheets
+    - An extension to CSS
+    - npm install sass
+  - (int function) `const [show, setShow] = useState(false);`
+    - same as `this.state = { show: false, setShow: false }`
 ## **Code 401 - Advanced Software Development**
 ### *-blank-*
