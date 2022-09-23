@@ -14,7 +14,7 @@ Through abstraction, a program can be shortened into cleaner, more readable grou
 source credit: https://reactjs.org/docs/thinking-in-react.html and https://en.wikipedia.org/wiki/Single-responsibility_principle
    
    
-   1. What is the single responsibility principle and how does it apply to components?
+   1. **What is the single responsibility principle and how does it apply to components?**
 
 The single responsibility principle states "A module should be responsible to one, and only one, actor." 
 
@@ -23,24 +23,24 @@ The single responsibility principle states "A module should be responsible to on
 The module being a component in the case of React. The component should only perform one thing, and if it grows beyond that, it should be split into smaller subcomponents.
 
    
-   2. What does it mean to build a ‘static’ version of your application?
+   2. **What does it mean to build a ‘static’ version of your application?**
 
 A static version of an application renders its UI and any data model it already has with it, but does not include any interactivity/state change functionality.
 
 
-   3. Once you have a static application, what do you need to add?
+   3. **Once you have a static application, what do you need to add?**
 
 This is the part where one adds the minimal representation of the UI's state. This meaning one has to consider the minimum set of mutable states that the app needs, then implement them.
 
 
-   4. What are the three questions you can ask to determine if something is state?
+   4. **What are the three questions you can ask to determine if something is state?**
      
       1. Is it passed in from a parent via props? If so, it probably isn’t state.
       2. Does it remain unchanged over time? If so, it probably isn’t state.
       3. Can you compute it based on any other state or props in your component? If so, it isn’t state. 
 
 
-   5. How can you identify where state needs to live?
+   5. **How can you identify where state needs to live?**
 
       1. Identify every component that renders something based on that state.
       2. Find a common owner component (a single component above all the components that need the state in the hierarchy).
@@ -51,17 +51,17 @@ This is the part where one adds the minimal representation of the UI's state. Th
 ## Higher-Order Functions
 
 source credit: https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK
-   1. What is a “higher-order function”?
+   1. **What is a “higher-order function”?**
 
 A higher-order function is a function that either takes other functions as arguments or returns them.
 
 
-   2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
+   2. **Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?**
 
 Line 2 is returning an anonymous arrow function that takes an argument `m` and returns the resolved boolean value for the expression `m > n` where n is a number passed in as an argument from the higher-order function `greaterThan()`.
 
 
-   3. Explain how either map or reduce operates, with regards to higher-order functions.
+   3. **Explain how either map or reduce operates, with regards to higher-order functions.**
 
 `.map()` operates as a higher-order function as a callback function must be passed into it as an argument for it to function. This callback function will be called on each array element from the array that calls `.map()`.
 
