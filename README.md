@@ -182,5 +182,20 @@
     - npm install sass
   - (int function) `const [show, setShow] = useState(false);`
     - same as `this.state = { show: false, setShow: false }`
+####**Day 5**
+  - Agenda 
+    - Today's Assignments:
+      - Partner Power Hour
+        - From Code Fellow's newest instructor
+        - Teaching the campus how to make a simple tip calculator IOS app
+    - Weekend Assignment:
+      - set up for 1:1 meetings
+        - meetings start next monday
+    - Today's warm up on JSON data drilling
+      - basically understanding how to get data from JSON files
+    - General notes
+      - React JSX apparently can't use if statements, but can use Ternary
+      - Web Request/Response Cycle Lecture:
+        - Starting next week we will write code for a client to make a request to an API
 ## **Code 401 - Advanced Software Development**
 ### *-blank-*
