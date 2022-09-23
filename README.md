@@ -14,6 +14,7 @@
   - [Class 2 GitHub Page](https://julian-gallegos.github.io/reading-notes/reading-class-2)
   - [Class 3 GitHub Page](https://julian-gallegos.github.io/reading-notes/reading-class-3)
   - [Class 4 GitHub Page](https://julian-gallegos.github.io/reading-notes/reading-class-4)
+  - [Class 5 GitHub Page](https://julian-gallegos.github.io/reading-notes/reading-class-5)
 ### **Week 1**
 #### **Day 1**
   - Orientation and React.js
