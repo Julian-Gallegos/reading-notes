@@ -15,6 +15,11 @@
   - [Class 3 GitHub Page](https://julian-gallegos.github.io/reading-notes/reading-class-3)
   - [Class 4 GitHub Page](https://julian-gallegos.github.io/reading-notes/reading-class-4)
   - [Class 5 GitHub Page](https://julian-gallegos.github.io/reading-notes/reading-class-5)
+  - [Class 6 GitHub Page]((https://julian-gallegos.github.io/reading-notes/reading-class-6)
+  - [Class 7 GitHub Page]((https://julian-gallegos.github.io/reading-notes/reading-class-7)
+  - [Class 8 GitHub Page]((https://julian-gallegos.github.io/reading-notes/reading-class-8)
+  - [Class 9 GitHub Page]((https://julian-gallegos.github.io/reading-notes/reading-class-9)
+  - [Class 10 GitHub Page]((https://julian-gallegos.github.io/reading-notes/reading-class-10)
 ### **Week 1**
 #### **Day 1**
   - Orientation and React.js
