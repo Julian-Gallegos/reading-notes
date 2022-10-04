@@ -23,7 +23,7 @@ Because the machines weren't designed for that by Fielding and his colleagues. T
 
    3. **What is the HTTP protocol that Fielding and his friends created?**
 
-Roy Fielding and his colleagues CREATED HTTP protocol.
+Roy Fielding and his colleagues created verbs for HTTP protocol.
 
 
    4. **What does a `GET` do?**
