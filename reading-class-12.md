@@ -38,7 +38,7 @@ Status code 204 (no content).
 
    5. **What code would you use if a resource used to exist but no longer does?**
    
-Perhaps a 307, but I'm not sure.
+410
    
    
    6. **What is the ‘Forbidden’ status code?**
