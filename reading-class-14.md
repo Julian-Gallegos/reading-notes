@@ -1,4 +1,4 @@
-# Read Class 14: The decline of women in computer science and 
+# Read Class 14: The decline of women in computer science and the importance of workplace diversity
   [Link back to main reading notes page](https://julian-gallegos.github.io/reading-notes/)
 
 
