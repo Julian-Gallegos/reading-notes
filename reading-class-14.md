@@ -7,7 +7,7 @@
 Even disregarding the benefits of diversity in the workplace, equal opportunity and respect should be celebrated and normalized. The reality is that there is still bias in the software development field, so understanding and acknowledging it is the first step towards combating it.
 
 
-## <Topic 1>
+## The Decline of Women in Computer Science
 
 source credit: [That Time When Women Stopped Coding](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
    
@@ -22,7 +22,7 @@ Personal computers began to show up in U.S. homes in significant numbers, and we
 Growing up with computers means they are more familiar with them, and with the growing trend towards men using computers, the expectation of students going into computer science is higher as professors assume all of their students used computers all their lives. This leads to women and other groups that aren't as familiar with computers to be discouraged or overwhelmed by computer courses, causing them to move to different fields. 
 
 
-## <Topic 2>
+## The Benefits of Diverse Workplaces
 
 source credit: [Employee breakdown of key technology companies](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
    1. **When are diversity efforts most successful?**
